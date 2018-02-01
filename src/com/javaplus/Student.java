@@ -25,6 +25,7 @@ public class Student {
         System.out.println("hello student");
         System.out.println("hello student and teachers");
         System.out.println("hello Vickie");
+        System.out.println("https://netbeans.org/kb/docs/ide/git.html");
     }
     
 }
