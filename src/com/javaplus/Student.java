@@ -24,6 +24,7 @@ public class Student {
         Student std = new Student();
         System.out.println("hello student");
         System.out.println("hello student and teachers");
+        System.out.println("hello Vickie");
     }
     
 }
