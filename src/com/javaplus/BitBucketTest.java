@@ -17,7 +17,7 @@ public class BitBucketTest {
     public static void main(String[] args) {
         System.out.println("Welcome To BitBucket!");
         System.out.println("Remote Editing!");
-        System.out.println("Kamal's Input!");
+        System.out.println("Kamal's Update!");
     }
     
 }
